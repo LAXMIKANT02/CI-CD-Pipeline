@@ -54,7 +54,7 @@ public class HelloController {
                 <p>GitHub Actions → Docker → AWS EC2</p>
 
                 <p> Fully Automated Deployment</p>
-                <p> Laxmikant</p>
+                <p> Laxmikant and likhit</p>
             </div>
 
         </body>
